@@ -41,4 +41,4 @@ Developed as part of the CodeAlpha Python Programming Internship.
 
 ## Author
 
-Syed Abdullah
+Syed Abdullah Shareef
